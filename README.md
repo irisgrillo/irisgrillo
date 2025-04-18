@@ -1,10 +1,10 @@
 ## Olá, meu nome é Íris, seja bem-vindo(a)!👋
 
 
-- 🔭 Estudante de Engenharia da Computação...
+- 🔭 Estudante de ADS e Engenharia da Computação...
 - 😉 Técnica em Eletroeletrônica e em Tecnologia da Informação;
 - 💬 Disposta a aprender cada vez mais!
-- 🏠 Tenho 21 anos e sou de Campinas - SP!
+- 🏠 Tenho 22 anos e sou de Campinas - SP!
 - 📫 Acesse o meu <a href="https://www.linkedin.com/in/irisgrillo/">Linkedin! </a>
 
 <div>
