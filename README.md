@@ -5,7 +5,8 @@
 - 😉 Certified in Information Technology and Electronics.
 - 💬 Dedicated to continuous learning and sharing knowledge.
 - 🏠 Based in Campinas, SP, Brazil.
-- 📫 Let's connect! Visit my <a href="https://www.linkedin.com/in/irisgrillo/" target="_blank">LinkedIn profile</a>.
+- 📫 Let's connect! Visit my <a href="https://www.linkedin.com/in/irisgrillo/" target="_blank">LinkedIn profile</a> .
+
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub Icon" />
