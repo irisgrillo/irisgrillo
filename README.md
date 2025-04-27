@@ -4,7 +4,6 @@
 - 🔭 Currently pursuing degrees in Analysis and Development of Systems and Computer Engineering.
 - 😉 Certified in Information Technology and Electronics.
 - 💬 Dedicated to continuous learning and sharing knowledge.
-- 🏠 Based in Campinas, SP, Brazil.
 - 📫 Let's connect! Visit my <a href="https://www.linkedin.com/in/irisgrillo/" target="_blank">LinkedIn profile</a> .
 
 
