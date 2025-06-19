@@ -1,4 +1,4 @@
-## Hello, my name is Íris, welcome!👋
+## Hello, i'm Íris, welcome!👋
 
 
 - 🔭 Currently pursuing degrees in Analysis and Development of Systems and Computer Engineering.
